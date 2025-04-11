@@ -1,4 +1,4 @@
-# SCSA (CVPR 2025)
+# SCSA (CVPR 2025 Highlight)
 
 Official Pytorch code for ["SCSA: A Plug-and-Play Semantic Continuous-Sparse Attention for Arbitrary Semantic Style Transfer"](https://arxiv.org/abs/2503.04119).
 
